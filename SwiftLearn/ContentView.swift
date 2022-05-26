@@ -1,6 +1,7 @@
 
 import SwiftUI
 
+//My first SwiftUI app
 
 struct ContentView: View {
     
